@@ -26,7 +26,7 @@ Public Class Ipod
             Environment.Exit(0)
         End If
 
-        Console.WriteLine("曲名：", music, "アーティスト:", artist)
+        Console.WriteLine("曲名：", music, "アーティスト:", artist, "aaaaaaaa")
 
 
     End Sub
