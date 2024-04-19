@@ -9,6 +9,7 @@ Module Main
         Console.Write("1:walkman ")
         Console.WriteLine("2:ipod")
         Console.WriteLine("2:ipod")
+        Console.WriteLine("2:ipod")
 
         itow = Console.ReadLine()
         If itow = 0 Then
